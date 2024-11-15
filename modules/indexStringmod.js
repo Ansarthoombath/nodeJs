@@ -1,0 +1,5 @@
+const stroprtns=require('./stringmod')
+console.log(stroprtns.add('hello','world'))
+console.log(stroprtns.len('hello'))
+console.log(stroprtns.lcase('HeLLo'))
+console.log(stroprtns.ucase('hello'))
